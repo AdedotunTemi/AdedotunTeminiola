@@ -14,9 +14,10 @@
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
-- <b>SQL PORTFOLIO PROJECTS </b>
-
 - <b>R (Statistical Programming language) </b>
+
+
+- <b>SQL PORTFOLIO PROJECTS </b>
 
 - <b>PowerBI</b>
 
