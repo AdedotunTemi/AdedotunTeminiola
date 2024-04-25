@@ -1,7 +1,5 @@
 # Hello there; welcome 👋🏾
 
-## 👋 I’m Adedotun
-
 
 <h1>Hi, 👋 I'm Adedotun! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">System Analyst</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
